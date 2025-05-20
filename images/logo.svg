@@ -1,0 +1,21 @@
+<svg width="300" height="100" viewBox="0 0 300 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Logo Circles -->
+    <circle cx="40" cy="50" r="30" fill="url(#orangeCircle)" stroke="#333333" stroke-width="2"/>
+    <circle cx="60" cy="35" r="25" fill="url(#tealCircle)" stroke="#333333" stroke-width="2"/>
+    
+    <!-- Company Name -->
+    <text x="100" y="45" font-family="Arial, sans-serif" font-weight="900" font-size="24" fill="#333333">CRAFTED</text>
+    <text x="100" y="70" font-family="Arial, sans-serif" font-weight="900" font-size="24" fill="#333333">TECHWORKS</text>
+    
+    <!-- Gradients -->
+    <defs>
+        <linearGradient id="orangeCircle" x1="10" y1="20" x2="70" y2="80" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#FFC107"/>
+            <stop offset="1" stop-color="#FF3D00"/>
+        </linearGradient>
+        <linearGradient id="tealCircle" x1="35" y1="10" x2="85" y2="60" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#00BCD4"/>
+            <stop offset="1" stop-color="#4CAF50"/>
+        </linearGradient>
+    </defs>
+</svg> 

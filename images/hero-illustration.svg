@@ -1,0 +1,43 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background Shapes -->
+    <rect x="50" y="50" width="500" height="300" rx="20" fill="#F5F5DC" opacity="0.3"/>
+    
+    <!-- Decorative Elements -->
+    <circle cx="150" cy="200" r="80" fill="url(#orangeGradient)" opacity="0.9"/>
+    <circle cx="350" cy="150" r="60" fill="url(#tealGradient)" opacity="0.9"/>
+    
+    <!-- Code Window -->
+    <rect x="250" y="100" width="280" height="220" rx="10" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="2"/>
+    <rect x="250" y="100" width="280" height="30" rx="10" fill="#F0F0F0" stroke="#DDDDDD" stroke-width="2"/>
+    
+    <!-- Window Controls -->
+    <circle cx="270" cy="115" r="5" fill="#FF6B6B"/>
+    <circle cx="290" cy="115" r="5" fill="#FFD93D"/>
+    <circle cx="310" cy="115" r="5" fill="#6BCB77"/>
+    
+    <!-- Code Lines -->
+    <rect x="270" y="150" width="140" height="10" rx="2" fill="#F0F0F0"/>
+    <rect x="270" y="170" width="220" height="10" rx="2" fill="#F0F0F0"/>
+    <rect x="270" y="190" width="180" height="10" rx="2" fill="#F0F0F0"/>
+    <rect x="270" y="210" width="200" height="10" rx="2" fill="#F0F0F0"/>
+    <rect x="270" y="230" width="160" height="10" rx="2" fill="#F0F0F0"/>
+    <rect x="270" y="250" width="190" height="10" rx="2" fill="#F0F0F0"/>
+    <rect x="270" y="270" width="130" height="10" rx="2" fill="#F0F0F0"/>
+    
+    <!-- Mobile Device -->
+    <rect x="120" y="130" width="100" height="180" rx="10" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="2"/>
+    <rect x="120" y="150" width="100" height="140" fill="#F0F0F0"/>
+    <rect x="150" y="300" width="40" height="5" rx="2.5" fill="#DDDDDD"/>
+    
+    <!-- Gradients -->
+    <defs>
+        <linearGradient id="orangeGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#FF7700"/>
+            <stop offset="100%" stop-color="#FF3300"/>
+        </linearGradient>
+        <linearGradient id="tealGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#00A6A6"/>
+            <stop offset="100%" stop-color="#00CC66"/>
+        </linearGradient>
+    </defs>
+</svg> 
